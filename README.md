@@ -1,8 +1,8 @@
 ## Hi there I'm George, a computer science and IT student 👋
 <div align="center">
-<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=RGeorge482&show_icons=true&theme=cobalt&border_radius=20" />
-<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGeorge482&layout=compact&border_radius=20" />
-<img align="left" width="35%" src="https://streak-stats.demolab.com/?user=RGeorge482&theme=tokyonight&border_radius=20" />
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=RGeorge482&show_icons=true&theme=cobalt&border_radius=20" />
+<img align="left" width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGeorge482&layout=compact&border_radius=20" />
+<img align="left" width="30%" src="https://streak-stats.demolab.com/?user=RGeorge482&theme=tokyonight&border_radius=20" />
 <div/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
